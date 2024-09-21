@@ -1,0 +1,2 @@
+Electronics|ProductID :1|ProductName :1|Price :1.0|Info :Electronics|Quantity :1|getBrand :1|WarrantyPeriod :1|
+Clothing|ProductID :2|ProductName :2|Price :2.0|Info :Clothing|Quantity :2|getSize :2|getColor :2|
